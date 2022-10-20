@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yaou Mourad</h1>
 <h3 align="center">A passionate software engineer from Algeria</h3>
 
+- 🤝 I’m looking for an trainee job or an internship
 - 📫 How to reach me **mouradyaou2001@gmail.com**
+- 📄 Know about my experiences [Resume.pdf](https://github.com/MouradFrz/MouradFrz/files/9831469/Resume.1.pdf)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
