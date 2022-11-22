@@ -3,7 +3,8 @@
 
 - 🤝 I’m looking for an trainee job or an internship
 - 📫 How to reach me **mouradyaou2001@gmail.com**
-- 📄 Know about my experiences [Resume.pdf](https://github.com/MouradFrz/MouradFrz/files/9831469/Resume.1.pdf)
+- 📄 Know about my experiences [Resume.pdf](https://github.com/MouradFrz/MouradFrz/files/10070669/Resume.5.pdf)
+
 
 
 <p align="left">
